@@ -1,2 +1,2 @@
 # swagger-viewer
-View swagger input JSON in UI  
+View swagger input JSON in UI   
